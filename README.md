@@ -8,23 +8,15 @@ Assess the organization's overall security posture, covering areas such as netwo
 IT Infrastructure Audit:
 
 Examine the entire IT infrastructure, including servers, networks, databases, and endpoints. Evaluate configurations, update procedures, and overall system health.
-How to Use:
-Select the Relevant Audit:
-
-Choose between the comprehensive Security Audit or the more focused IT Infrastructure Audit, based on your organization's current needs.
-Follow the Step-by-Step Guide:
-
-Each audit includes a structured roadmap with detailed steps under different phases. Follow the guide sequentially to ensure a thorough examination of security and IT aspects.
-Adapt to Your Context:
 
 Tailor the audit to fit the specific requirements of your organization, projects, or compliance standards. The flexibility of the audit roadmaps allows for customization based on unique contexts.
 Continuous Improvement:
 
-Utilize the insights gained from the audits to enhance security policies, procedures, and IT infrastructure. Foster a culture of continuous improvement to stay resilient against evolving threats.
+Utilize the insights gained from the audit to enhance security policies, procedures, and IT infrastructure. Foster a culture of continuous improvement to stay resilient against evolving threats.
 Contributions and Feedback:
 We welcome contributions and feedback to improve and refine these audits. If you have insights, additional steps, or improvements to suggest, please feel free to contribute. Open an issue or submit a pull request to collaborate on making these audits more effective for our organization.
 
-Thank you for utilizing our Security and IT Audit Document. Wishing you a robust and secure IT environment!
+Thank you for utilizing our Security and IT Audit Document. Wishing you a secure IT environment!
 
 Some codes to get you started with:
 
